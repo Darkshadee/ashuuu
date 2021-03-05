@@ -1,0 +1,76 @@
+<div id="cal-day-box">
+	<div class="row-fluid clearfix cal-row-head">
+		<div class="time-col cal-cell"><% cal.locale.time %></%></div>
+		<div class="events-col"><% cal.locale.events %></%></div>
+	</div>
+	<% if>
+		<div class="row-fluid clearfix cal-day-hour">
+			<div class="time-col" style="height: <% print(((all_day.length+1)*35) + 15) %>px"><b><% cal.locale.all_day %></%></b></div>
+			<div class="events-col" style="top: -<% print((all_day.length*35)+15) %>px">
+				<% _.each function %>
+					<div class="day-highlight dh-<%= event['class'] %>">
+						<a href="https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/views/<%- event.url ? event.url : 'javascript:void(0)' %>" data-event-id="<%= event.id %>" data-event-class="<%= event['class'] %>" class="event-item">
+							<% event.title : event.url null %></%></a>
+					</div>
+				<% %>
+			</%></%>
+</div>
+		</div>
+	<% %>
+	<% if>
+		<div class="row-fluid clearfix cal-day-hour">
+			<div class="time-col" style="height: <% print(((before_time.length+1)*35) + 15) %>px"><b><% cal.locale.before_time %></%></b></div>
+			<div class="events-col" style="top: -<% print((before_time.length*35)+15) %>px">
+				<% _.each function %>
+					<div class="day-highlight dh-<%= event['class'] %>">
+						<span class="cal-hours pull-right"><% event.end_hour %></%></span>
+						<a href="https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/views/<%- event.url ? event.url : 'javascript:void(0)' %>" data-event-id="<%= event.id %>" data-event-class="<%= event['class'] %>" class="event-item">
+							<% event.title : event.url null %></%></a>
+					</div>
+				<% %>
+			</%></%>
+</div>
+		</div>
+	<% %>
+	<div id="cal-day-panel" class="clearfix cal-day-panel-class">
+		<div id="cal-day-panel-hour" class="cal-day-panel-hour-class">
+			<% for i hours i++ %>
+				<div class="cal-day-hour">
+					<% for l cal._hour_min l++ %>
+						<div class="row-fluid cal-day-hour-part">
+							<div class="time-col"><b><% cal._hour l %></%></b></div>
+							<div class="events-col"></div>
+						</div>
+				<% %>
+				</%></%>
+</div>
+			<% %>
+		</%></%>
+</div>
+		
+		<% _.each function %>
+			<div class="pull-left day-event day-highlight dh-<%= event['class'] %>" style="margin-top: <%= (event.top * 30) %>px; height: <%= (event.lines * 30) %>px; <% if (by_hour.length > 3) {print('max-width: 100px;')}  %> ">
+				<span class="cal-hours"><% event.start_hour %> - <% event.end_hour %></%></%></span>
+				<a href="https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/views/<%- event.url ? event.url : 'javascript:void(0)' %>" data-event-id="<%= event.id %>" data-event-class="<%= event['class'] %>" class="event-item">
+					<% event.title : event.url null %></%></a>
+			</div>
+		<% %>
+	</%></%>
+</div>
+	<% if>
+	<div class="row-fluid clearfix cal-day-hour">
+		<div class="time-col" style="height: <% print(((after_time.length+1)*35) + 15) %>px"><b><% cal.locale.after_time %></%></b></div>
+		<div class="events-col" style="top: -<% print((after_time.length*35)+15) %>px">
+			<% _.each function %>
+			<div class="day-highlight dh-<%= event['class'] %>">
+				<span class="cal-hours pull-right"><% event.start_hour %></%></span>
+				<a href="https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/shortcodes/shortcodes/calendar/views/<%- event.url ? event.url : 'javascript:void(0)' %>" data-event-id="<%= event.id %>" data-event-class="<%= event['class'] %>" class="event-item">
+					<% event.title : event.url null %></%></a>
+			</div>
+			<% %>
+		</%></%>
+</div>
+	</div>
+	<% %>
+</%></%></%></%></%></%>
+</div>
