@@ -41,7 +41,7 @@
 	height: 128px;
 	width: 128px;
 	text-align: center;
-	background: url('http://https://www.ashuuu.ml/wp-content/plugins/unyson/framework/core/components/extensions/manager/static/img/thumbnail-bg.jpg');
+	background: url('https://www.ashuuu.ml/wp-content/plugins/unyson/framework/core/components/extensions/manager/static/img/thumbnail-bg.jpg');
 	background-size: 128px;
 }
 
@@ -180,7 +180,7 @@
 
 .fw-extensions-list .fw-extensions-list-item .fw-extension-disabled {
 	display: none;
-	background: rgba(255, 255, 255, 0.5) url("http://https://www.ashuuu.ml/wp-content/plugins/unyson/framework/core/components/extensions/manager/static/img/disabled-bg.png");
+	background: rgba(255, 255, 255, 0.5) url("https://www.ashuuu.ml/wp-content/plugins/unyson/framework/core/components/extensions/manager/static/img/disabled-bg.png");
 	border: 1px solid #ffffff;
 	position: absolute;
 	top: 0;

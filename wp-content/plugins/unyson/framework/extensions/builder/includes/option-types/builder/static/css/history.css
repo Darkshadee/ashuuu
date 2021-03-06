@@ -23,18 +23,18 @@ body.rtl .fw-option-type-builder .history-container {
 }
 
 .fw-option-type-builder a.undo {
-	background-image: url(http://https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/builder/includes/option-types/builder/static/img/history/undo.png);
+	background-image: url(https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/builder/includes/option-types/builder/static/img/history/undo.png);
 	background-repeat: no-repeat;
 	padding-left: 14px;
 	background-position: left center;
 }
 
 .fw-option-type-builder a.undo.disabled {
-	background-image: url(http://https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/builder/includes/option-types/builder/static/img/history/undo_disabled.png);
+	background-image: url(https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/builder/includes/option-types/builder/static/img/history/undo_disabled.png);
 }
 
 .fw-option-type-builder a.redo {
-	background-image: url(http://https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/builder/includes/option-types/builder/static/img/history/redo.png);
+	background-image: url(https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/builder/includes/option-types/builder/static/img/history/redo.png);
 	background-repeat: no-repeat;
 	padding-left: 14px;
 	background-position: left center;
@@ -42,5 +42,5 @@ body.rtl .fw-option-type-builder .history-container {
 }
 
 .fw-option-type-builder a.redo.disabled {
-	background-image: url(http://https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/builder/includes/option-types/builder/static/img/history/redo_disabled.png);
+	background-image: url(https://www.ashuuu.ml/wp-content/plugins/unyson/framework/extensions/builder/includes/option-types/builder/static/img/history/redo_disabled.png);
 }
