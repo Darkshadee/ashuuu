@@ -1,0 +1,1321 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WPPayForm Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-15 10:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: wppayform"
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/CustomerEmailComponent.php:98
+msgid " does not match"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionHandler.php:522
+msgid " is required"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:300
+msgid " to "
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/user_submissions_table.php:3
+msgid "#"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/DemoRecurringPaymentComponent.php:94
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:91
+msgid "$9.99 / Month"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:415
+msgid ", for {bill_times} installments"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:253
+msgid "--Select Plan--"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/MaskInputComponent.php:72
+msgid "23/03/2018"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/MaskInputComponent.php:74
+msgid "23/03/2018 23:59:59"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/MaskInputComponent.php:73
+msgid "23:59:59"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:426
+msgid "Abandoned"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/user_submissions_table.php:11
+msgid "Actions"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:132
+msgid "Admin Email"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/ConsentComponent.php:19
+msgid "Agreed"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Menu.php:79
+msgid "All Forms"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:330
+msgid "All input field html"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:331
+msgid "All input field html with empty"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Menu.php:155
+msgid "All Payment Forms"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:305
+msgid "AM"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:241
+msgid "Apr"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:255
+msgid "April"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:245
+msgid "Aug"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:259
+msgid "August"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Stripe.php:152
+msgid "Billing Address"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/PaymentSuccessHandler.php:178
+msgid "Billing address from stripe has been logged in the submission data"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:442
+msgid "Burundian Franc"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:454
+msgid "Central African Cfa Franc"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:456
+msgid "Cfp Franc"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:443
+msgid "Chilean Peso"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/DemoRecurringPaymentComponent.php:58
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:55
+msgid "Chose One from Multiple Pricing Plans"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:303
+msgid "Click to toggle"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:447
+msgid "Comorian Franc"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:279
+msgid "Congratulations! New Payment has been received from your subscription"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create and Accept Payments in minutes with Stripe, PayPal with built-in form "
+"builder"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Charge.php:67
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Plan.php:118
+msgid "Currency is required"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/MaskInputComponent.php:75
+msgid "Custom"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/CustomCSSJS.php:65
+msgid "Custom CSS and JS successfully saved"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:321
+msgid "Customer Email"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:320
+msgid "Customer Name"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:198
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/user_submissions_table.php:4
+msgid "Date"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/receipt/payment_info.php:11
+msgid "Date:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:434
+msgid "day"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:249
+msgid "Dec"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:263
+msgid "December"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/Offline/OfflineElement.php:66
+msgid "Direct bank transfer"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:161
+msgid "Display name"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:444
+msgid "Djiboutian Franc"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/EmailNotification/EmailAjax.php:84
+msgid "Email Notifications has been updated"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:424
+msgid "Failed"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:239
+msgid "Feb"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:253
+msgid "February"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/FileUploadComponent.php:34
+msgid "File Upload"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/DemoFileUploadComponent.php:24
+msgid "File Upload (Pro)"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:151
+msgid "First name"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/user_submissions_table.php:5
+msgid "Form"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:208
+msgid "Form has been successfully submitted"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionHandler.php:257
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPal.php:166
+msgid "Form is successfully submitted"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/SchedulingSettings.php:152
+msgid "Form submission is not started yet."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/SchedulingSettings.php:157
+msgid "Form submission is now closed."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:456
+msgid ""
+"Form submission time schedule is not started yet. Please check back later"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:108
+msgid "Form successfully created."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:310
+msgid "Form successfully duplicated"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:135
+msgid "Form successfully updated"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionHandler.php:333
+msgid "Form Validation failed"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:282
+msgid "Fri"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:273
+msgid "Friday"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Charge.php:52
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Customer.php:39
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Plan.php:40
+msgid "General Error"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:445
+msgid "Guinean Franc"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpmanageninja.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wppayform.wpmanageninja.com/"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:111
+msgid "ID"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/subscriptions_info.php:11
+msgid "Initial Amount"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Integrations/TinyMceBlock.php:41
+msgid "Insert Form Shortcode"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Integrations/TinyMceBlock.php:43
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Charge.php:64
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Plan.php:115
+msgid "Invalid currency"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionHandler.php:41
+msgid "Invalid request. Please try again"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/PaymentReceipt.php:27
+msgid "Invalid subission. No receipt found"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/BaseComponent.php:362
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:313
+msgid "is required"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/order_items_table.php:10
+msgid "Item"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/PaymentReceipt.php:145
+msgid "Items Details"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:238
+msgid "Jan"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:252
+msgid "January"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:446
+msgid "Japanese Yen"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:244
+msgid "Jul"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:258
+msgid "July"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:243
+msgid "Jun"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:257
+msgid "June"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:156
+msgid "Last name"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/order_items_table.php:13
+msgid "Line Total"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPal.php:49
+msgid "Looks like you have canceled the payment from paypal"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:449
+msgid "Malagasy Ariary"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:240
+msgid "Mar"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:254
+msgid "March"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:242
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:256
+msgid "May"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:278
+msgid "Mon"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:269
+msgid "Monday"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:436
+msgid "month"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Stripe.php:178
+msgid "Name on Card"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/ItemQuantityComponent.php:128
+#, php-format
+msgid "need to be greater or equal %d"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/ItemQuantityComponent.php:133
+#, php-format
+msgid "need to be less than or equal %d"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:235
+msgid "Next Month"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:305
+msgid "No form found when duplicating the form"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/MaskInputComponent.php:69
+msgid "None"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionView.php:199
+msgid "Note successfully added"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:248
+msgid "Nov"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:262
+msgid "November"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:450
+msgid "Number of entry has been exceeds, Please check back later"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:247
+msgid "Oct"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:261
+msgid "October"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/Offline/OfflineProcessor.php:47
+msgid "Offline Payment recorded and change the status to pending"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/Offline/OfflineElement.php:26
+msgid "Offline/Check Payment"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:413
+msgid "One time payment of {first_interval_total}"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeInlineHandler.php:489
+msgid "One time Payment Successfully made via stripe. Charge ID: "
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:395
+msgid "Oppps! The Subscription Payment has been failed"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:325
+msgid "Opps! The Subscription has been cancelled"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/receipt/payment_info.php:4
+msgid "Order ID:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:125
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:133
+msgid "Order Items"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:333
+msgid "Order items table html"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:29
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/DefaultValueParser/FormDefaultValueRenderer.php:37
+msgid "Other"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:421
+msgid "Paid"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:450
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Charge.php:76
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Plan.php:127
+msgid "Payment Amount can not be 0"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/PaymentItemComponent.php:104
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/DemoRecurringPaymentComponent.php:118
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:115
+msgid "Payment amount is required for item:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Activator.php:274
+msgid "Payment Confirmation"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Charge.php:19
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Customer.php:16
+msgid "Payment data validation failed"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Activator.php:285
+msgid "Payment Failed"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:108
+msgid "Payment failed due to invalid amount in PayPal IPN."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:88
+msgid "Payment failed due to invalid currency in PayPal IPN"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:79
+msgid "Payment failed due to invalid PayPal business email."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:115
+msgid "Payment failed due to invalid purchase key in PayPal IPN."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeHandler.php:177
+msgid "Payment Failed via stripe. Status changed from Pending to Failed."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeInlineHandler.php:257
+msgid "Payment Failed! Please try again"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeInlineHandler.php:445
+msgid "Payment Failed! Your card may declined"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeHostedHandler.php:339
+msgid "Payment has been successfully completed"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:134
+msgid "Payment marked as pending. You may take a look of the payment in paypal"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:322
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:124
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:132
+msgid "Payment Method"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/receipt/payment_info.php:26
+msgid "Payment Method:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:123
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:131
+msgid "Payment Mode"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:343
+msgid "Payment Receipt"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/Stripe/StripeListener.php:321
+#, php-format
+msgid "Payment Refunded By Stripe. Refunded: %s"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:483
+#, php-format
+msgid "Payment Refunded in Paypal. Refunded: %s"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:119
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:129
+msgid "Payment Status"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeInlineHandler.php:497
+msgid "Payment status changed from pending to paid"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionView.php:245
+msgid "Payment status successfully changed"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/receipt/payment_info.php:32
+msgid "Payment Status:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Extorior/FramelessProcessor.php:45
+msgid "Payment Success"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:326
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:122
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:130
+msgid "Payment Total"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPal.php:670
+msgid "PayPal does not support multiple subscriptions at one request"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPal.php:663
+msgid ""
+"PayPal does not support subscriptions payment and Single Amount Payment at "
+"one request"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/DemoPayPalElement.php:64
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalElement.php:65
+msgid "PayPal Payment Gateway"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:188
+msgid "PayPal recurring payment subscription successfully initiated"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:423
+msgid "Pending"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Stripe.php:169
+msgid "Phone"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:217
+msgid "Please add atleast one input element"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPal.php:453
+msgid "Please enter valid email address"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:120
+msgid "Please provide form title"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Stripe.php:232
+msgid "Please provide Live Publishable key and Live Secret Key"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Stripe.php:224
+msgid "Please provide Test Publishable key and Test Secret Key"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GlobalSettingsHandler.php:57
+msgid "Please select a currency"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Integrations/TinyMceBlock.php:42
+msgid "Please select a Form"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GlobalSettingsHandler.php:99
+msgid "Please upload only jpg/png format files"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:311
+msgid "Please verify recaptcha first"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeHostedHandler.php:121
+msgid ""
+"Please wait... You are redirecting to Secure Payment page powered by Stripe"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:108
+msgid "Please Wait…"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:306
+msgid "PM"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:60
+msgid "Post Author"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:66
+msgid "Post Author Email"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:42
+msgid "Post ID"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:72
+msgid "Post Meta"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:48
+msgid "Post Title"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:54
+msgid "Post URL"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:234
+msgid "Previous Month"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/order_items_table.php:12
+msgid "Price"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/PaymentItemComponent.php:108
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/DemoRecurringPaymentComponent.php:122
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:119
+msgid "Pricing Details is required for item:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:422
+msgid "Processing"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/order_items_table.php:11
+msgid "Quantity"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:192
+msgid "Query String"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/DemoRecurringPaymentComponent.php:62
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:59
+msgid "Radio input field"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:434
+msgid "Read"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionHandler.php:324
+msgid "reCaptcha validation failed. Please try again."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/DemoRecurringPaymentComponent.php:23
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:24
+msgid "Recurring Payment Item"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPal.php:162
+msgid "Redirect to paypal for payment"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:425
+msgid "Refunded"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:463
+msgid "Refunded in PayPal account"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:451
+msgid "Rwandan Franc"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:283
+msgid "Sat"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:274
+msgid "Saturday"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeInlineHandler.php:423
+msgid ""
+"SCA is required for this payment. Payment status changed to pending to "
+"intended"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeInlineHandler.php:431
+msgid "SCA is required for this payment. Requested SCA info from customer"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:302
+msgid "Scroll to increment"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Integrations/TinyMceBlock.php:40
+msgid "Select a Form to insert"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/DemoRecurringPaymentComponent.php:63
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:60
+msgid "Select input field"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/ChoosePaymentMethodComponent.php:90
+msgid "Select Payment Method"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:273
+msgid "Selected form successfully deleted"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionView.php:259
+msgid "Selected submission successfully deleted"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:246
+msgid "Sep"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:260
+msgid "September"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Menu.php:100
+msgid "Settings"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:194
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:250
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:291
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GlobalSettingsHandler.php:82
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/SchedulingSettings.php:64
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPal.php:476
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Stripe.php:257
+msgid "Settings successfully updated"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Stripe.php:98
+msgid "Signup Fee for"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/DemoRecurringPaymentComponent.php:57
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:54
+msgid "Simple Recurring Plan (Single)"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:120
+msgid "Site Title"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:126
+msgid "Site URL"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:100
+msgid "Something is wrong when createding the form. Please try again"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:312
+msgid "Something is wrong when submitting the form"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GlobalSettingsHandler.php:109
+msgid "Something is wrong when uploading the file"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeHostedHandler.php:329
+msgid "Sorry! no associate submission found"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeHandler.php:215
+msgid ""
+"Sorry! there has an error when creating the subscrion plan. Please try again"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionView.php:162
+msgid "Sorry, No Submission found"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/wp-payment-form-pro.php:161
+#: ../../../../Plugins/wp-payment-form/wp-payment-form.php:156
+msgid "Sorry, no submission receipt found, Please check your receipt URL"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AccessControl.php:296
+msgid ""
+"Sorry, You can not update permissions. Only administrators can update "
+"permissions"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AccessControl.php:52
+msgid "Sorry, You do not have permission to do this action: "
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:448
+msgid "South Korean Won"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/subscriptions_info.php:13
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/user_submissions_table.php:8
+msgid "Status"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeHandler.php:70
+msgid ""
+"Stripe error when creating subscription plan for you. Please contact site "
+"admin"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeHandler.php:68
+msgid ""
+"Stripe error when creating subscription plan for you. Your card might be "
+"charged for atleast one subscription. Please contact site admin to resolve "
+"the issue"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/PaymentSuccessHandler.php:132
+msgid "Stripe One time payment has marked as paid."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeHandler.php:127
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/PaymentSuccessHandler.php:79
+msgid "Stripe recurring subscription successfully initiated"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Charge.php:71
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Plan.php:122
+msgid "Stripe Token is required"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/Customer.php:64
+msgid "Stripe token/payment_method is required"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeInlineHandler.php:438
+msgid ""
+"Strong Customer Authentication is required. Please complete 2 factor "
+"authentication."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/order_items_table.php:34
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:120
+msgid "Sub Total"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:112
+msgid "Submission Date"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/receipt/customer_details.php:2
+msgid "Submission Details"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:319
+msgid "Submission Hash ID"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:318
+msgid "Submission ID"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/receipt/payment_info.php:6
+msgid "Submission ID:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:21
+msgid "Submission Info"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/SchedulingSettings.php:136
+msgid "Submission limit has been excceded."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:107
+msgid "Submit"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:315
+msgid "Submitting Data..."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/subscriptions_info.php:10
+msgid "Subscription"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/PaymentReceipt.php:187
+msgid "Subscription Details"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:340
+msgid "Subscription details table html "
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/DemoRecurringPaymentComponent.php:85
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:82
+msgid "Subscription Item"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:196
+msgid "Subscription status changed from pending to active"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeHandler.php:142
+msgid "Subscription status changed to : "
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AccessControl.php:292
+msgid "Successfully saved the role(s)."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:277
+msgid "Sun"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:268
+msgid "Sunday"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Menu.php:113
+msgid "Support"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/ItemQuantityComponent.php:100
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/TaxItemComponent.php:109
+msgid "Target Product is required for item:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Export/Export.php:121
+msgid "Tax Total"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:234
+msgid "Thanks for your submission. Here are the details of your submission:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/libs/updater/WPPayformProUpdateChecker.php:92
+#: ../../../../Plugins/wp-payment-form/includes/Pro/libs/updater/WPPayformProUpdateChecker.php:101
+#, php-format
+msgid "The %s license needs to be activated. %sActivate Now%s"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionView.php:212
+msgid "The submission have the same status"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:360
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/Stripe/StripeListener.php:216
+msgid "The Subscription Term Period has been completed"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/ApiRequest.php:124
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/ApiRequest.php:148
+msgid "There was a problem connecting to the Stripe API endpoint."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:281
+msgid "Thu"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:272
+msgid "Thursday"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:204
+msgid "Time"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/subscriptions_info.php:12
+msgid "Times Billed"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/order_items_table.php:45
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/user_submissions_table.php:7
+msgid "Total"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/DashboardWidgetModule.php:127
+msgid "Total Paid & Active Payment Received"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/receipt/payment_info.php:20
+msgid "Total:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:334
+msgid "Transaction Id"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPalIpn.php:550
+#, php-format
+msgid ""
+"Transaction Marked as paid and PayPal Transaction ID: %s and Payer Paypal "
+"Email ID: %s"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:279
+msgid "Tue"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:270
+msgid "Tuesday"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:433
+msgid "Unread"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/views/elements/subscriptions_info.php:28
+msgid "Until cancelled"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:176
+msgid "User Description"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:96
+msgid "User Display Name"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:102
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:166
+msgid "User Email"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:84
+msgid "User First Name"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:78
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:146
+msgid "User ID"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:210
+msgid "User IP Address"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:90
+msgid "User Last Name"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:114
+msgid "User Meta"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:181
+msgid "User Role"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:108
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:171
+msgid "User URL"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/CustomerEmailComponent.php:90
+msgid "Valid email address is required for field:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:215
+msgid "Validation Error, Please try again"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/AdminAjaxHandler.php:238
+msgid "Validation failed when saving the form"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionHandler.php:118
+msgid "Validation failed, because selected payment method could not be found"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/SubmissionHandler.php:131
+msgid "Validation failed, Please fill up card details"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:314
+msgid "Validation failed, please fill-up required fields"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormComponents/HiddenInputComponent.php:59
+msgid "Value is required for item:"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:453
+msgid "Vanuatu Vatu"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeInlineHandler.php:192
+msgid "Verifying your card details. Please wait..."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:452
+msgid "Vietnamese Dong"
+msgstr ""
+
+#. %s: The [simpay_errors] shortcode
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Activator.php:287
+msgid ""
+"We're sorry, but your transaction failed to process. Please try again or "
+"contact site support."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:280
+msgid "Wed"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:271
+msgid "Wednesday"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:438
+msgid "week"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/GeneralSettings.php:455
+msgid "West African Cfa Franc"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:301
+msgid "Wk"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/FormPlaceholders.php:25
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/DefaultValueParser/FormDefaultValueRenderer.php:29
+msgid "WordPress"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPManageNinja LLC"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/libs/updater/wppayform_pro_updater.php:37
+#: ../../../../Plugins/wp-payment-form/includes/Pro/libs/updater/wppayform_pro_updater.php:39
+msgid "WPPay Form pro"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/DashboardWidgetModule.php:22
+msgid "WPPayForm Latest Submissions"
+msgstr ""
+
+#. Name of the plugin
+msgid "WPPayForm Pro"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Menu.php:49
+msgid "WPPayForms"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/ProShortCodeHandler.php:39
+msgid ""
+"Wrong shortcode parameter, Please use user_id / customer_email in your "
+"shortcode"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Builder/Render.php:308
+msgid "Year"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:440
+msgid "year"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/ProShortCodeHandler.php:25
+msgid "You do not have any submission yet!"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/SchedulingSettings.php:171
+msgid "You must be logged in to submit the form."
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/ProShortCodeHandler.php:24
+msgid "You need to login to see your submissions"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/Models/Forms.php:461
+msgid "You need to login to submit this form"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/GateWays/PayPal/PayPal.php:172
+msgid "Your are redirecting to paypal now"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Classes/PaymentMethods/Stripe/StripeCardElementComponent.php:74
+msgid "Your Card info (Powered By Stripe)"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:411
+msgid ""
+"{first_interval_total} for the first {billing_interval} then "
+"{subscription_amount}/{billing_interval}"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:414
+msgid "{subscription_amount} for each {billing_interval}"
+msgstr ""
+
+#: ../../../../Plugins/wp-payment-form/includes/Pro/Classes/Components/RecurringPaymentComponent.php:412
+msgid "{trial_days} days free then {subscription_amount}/{billing_interval}"
+msgstr ""
